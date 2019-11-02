@@ -1,0 +1,4 @@
+#Sun Feb 24 18:05:00 IST 2019
+base.0=D\:\\FirebaseLoginApp-20190223T151130Z-001\\FirebaseLoginApp\\FirebaseLoginApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
